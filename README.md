@@ -64,6 +64,8 @@ print("Name:Hashwatha M")
 print("Reg No:212223240051")
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/dbad2f1a-dc81-4365-85ba-83225381aa30)
+
 ![image](https://github.com/user-attachments/assets/1946c009-6586-418f-9e32-2addf1ec0ef6)
 
 ## Result:
